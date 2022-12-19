@@ -1,4 +1,4 @@
-# Hello! 🥖
+# Arigato! 🥖
 
 My name is Saurabh Rawat. I am a Full stack web developer from India. I have a proficiency in React, Javascript, C++ and I have make some of the project using React, CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale. Other than that I enjoy Table Tennis and cricket. 🥐
 
