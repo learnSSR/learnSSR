@@ -75,6 +75,7 @@ My name is Saurabh Rawat. I am a Full stack web developer from Delhi, India. I h
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/saurabh-rawat-b5239a172/)
 
+[<img src="https://img.shields.io/badge/twitter-282C34?logo=twitter&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://twitter.com/saurabh30717640)
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{learnSSR}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
