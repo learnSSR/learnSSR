@@ -31,7 +31,7 @@ My name is Saurabh Rawat. I am a Full stack web developer from India. I have a p
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=282C34&logo=Typescript&logoColor=DB7093" alt="Typescript logo" title="Typescript" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
