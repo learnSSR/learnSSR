@@ -65,12 +65,6 @@ My name is Saurabh Rawat. I am a Full stack web developer from Delhi, India. I h
 ![github graph](https://activity-graph.herokuapp.com/graph?username=learnSSR&theme=dracula)
 <br>
 
-<!-- ![Abhii's Github Stats](https://github-readme-stats.vercel.app/api?username=aashishkumar1&count_private=true&show_icons=true&include_all_commits=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkumar1&hide=TeX&layout=compact)
-&ensp;
-<a href="https://github.com/aashishkumar1-cmd/github-readme-activity-graph"><img alt="Abhii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aashishkumar1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/saurabh-rawat-b5239a172/)
