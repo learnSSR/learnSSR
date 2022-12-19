@@ -1,12 +1,7 @@
 # Hello! 🥖
 
-My name is Aashish Kumar. I am a Full stack web developer from Delhi, India. I have a proficiency in React and I have designed the clone of some of the websites using React, CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale. Other than that I enjoy swimming and cricket. 🥐
+My name is Saurabh Rawat. I am a Full stack web developer from Delhi, India. I have a proficiency in React and I have make some of the project using React, CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale. Other than that I enjoy swimming and cricket. 🥐
 
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=dracula&animation=default&layout=default&font=default)
-<!-- &nbsp;
-These words best describe my mindset! -->
 
 ## 🛠  Technologies and tools
 
@@ -53,21 +48,21 @@ These words best describe my mindset! -->
 <br/>
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aashishkumar1&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=aashishkumar1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=learnSSR&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=learnSSR&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
 <!-- theme=dark -->
 <p align="center">
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnSSR&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=aashishkumar1&theme=dracula)
+![github graph](https://activity-graph.herokuapp.com/graph?username=learnSSR&theme=dracula)
 <br>
 
 <!-- ![Abhii's Github Stats](https://github-readme-stats.vercel.app/api?username=aashishkumar1&count_private=true&show_icons=true&include_all_commits=true)
@@ -78,13 +73,11 @@ These words best describe my mindset! -->
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/aashish-kumar-38a2aa218/)
-&nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="Portfolio logo" title="Portfolio" height="25" />](https://aashishkumar-portfolio.netlify.app)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/saurabh-rawat-b5239a172/)
 
 
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{aashishkumar1}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{learnSSR}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 
 
